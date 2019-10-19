@@ -1,0 +1,7 @@
+{
+    "name": "andikod/fakeapi",
+    "description": "Just some dummy data",
+    "require": {
+        "php": "^7.2",
+    }
+}
