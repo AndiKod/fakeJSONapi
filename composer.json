@@ -19,6 +19,8 @@
         "email": "andrei@andikod.fr"
     },
     "require": {
-    	
-    }
+    	"php": "^7.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
