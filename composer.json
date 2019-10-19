@@ -1,7 +1,24 @@
 {
     "name": "andikod/fakeapi",
-    "description": "Just some dummy data",
+    "description": "Just some dummy data!",
+    "version": "1.0.0",
+    "type": "library",
+    "keywords": ["json", "api", "data"],
+    "homepage": "https://github.andikod.fr",
+    "time": "2019-10-19",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrei Curelaru",
+            "email": "andrei@andikod.fr",
+            "homepage": "https://github.andikod.fr",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "andrei@andikod.fr"
+    },
     "require": {
-        "php": "^7.2"
+    	
     }
 }
