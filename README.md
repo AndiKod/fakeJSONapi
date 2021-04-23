@@ -7,3 +7,4 @@ Get response at:
 
 A service by [my-json-server.typicode.com](https://my-json-server.typicode.com/)
 
+(to be deleted soon)
